@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm a backend and Mobile developer, passionate about Computer Science.
+I'm a backend and mobile developer, passionate about Computer Science.
 
 I really enjoy data structure and algorithms, math, physics and challenging things.
 
