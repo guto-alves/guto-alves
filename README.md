@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm graduating in Systems Analisys and Development at Fatec Zona Leste and working as Java Developer at Autbank.
+I'm graduating in Systems Analisys and Development at Fatec Zona Leste and working as Java Developer.
 
 I really enjoy data structure and algorithms, math, physics and challenging things.
 
