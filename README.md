@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm graduating in Systems Analysis and Development at Fatec Zona Leste and working as Java Developer.
+I'm graduating in Systems Analysis and Development at Fatec Zona Leste.
 
 I really enjoy data structure and algorithms, math, physics and challenging things.
 
