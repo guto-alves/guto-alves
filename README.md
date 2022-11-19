@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm a Backend & Mobile Developer.
+I'm a Backend and Mobile Developer.
 
 I really enjoy data structure and algorithms, math, physics and challenging things.
 
