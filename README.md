@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm graduating in Systems Analysis and Development at Fatec Zona Leste.
+I'm a Backend & Mobile Developer.
 
 I really enjoy data structure and algorithms, math, physics and challenging things.
 
